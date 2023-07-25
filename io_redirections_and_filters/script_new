@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "New script in permissions"
+git commit -m "New script in I/O Redirections and filters"
 git push
